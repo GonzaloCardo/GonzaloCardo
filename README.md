@@ -1,17 +1,25 @@
-<h1>Hello! I'm Gonzalo Cardo </h1>
+<h1>Hi, I'm Gonzalo! 👋</h1>
 <h2>App Developer | Unity Developer</h2>
 
+### Sobre Mí
+- Tengo 22 años y actualmente vivo en Cuenca, España.
+- Tengo un título de DAM (Desarrollo de Aplicaciones Multiplataformas) y aprobé un curso de especialización de Desarrollo de Videojuegos y Realidad Virtual
+- Me gusta mucho el poder programar y diseñar aplicaciones, entornos y algún que otro videojuego.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### About Me
-- I am 22 years old and I am from Cuenca, Spain.
+- I am 22 years old and I currently live Cuenca, Spain.
 - I have a DAM (Cross-Platform Application Developer) degree and passed a specialization course on Video Game Development and Virtual Reality
-- I really enjoy the aspect of designing and programming applications, environments and some videogames.
+- I really enjoy the aspect of programming and designing applications, environments and some videogames.
 
 ### Technologies
   ![C#](https://img.shields.io/badge/CSHARP-772BCC?style=for-the-badge)
-  ![Android](https://img.shields.io/badge/ADNROID-63C702?style=for-the-badge)
   ![Java](https://img.shields.io/badge/JAVA-E87F3A?style=for-the-badge)
   ![Python](https://img.shields.io/badge/PYTHON-FFF403?style=for-the-badge)
+  ![Android](https://img.shields.io/badge/ADNROID-63C702?style=for-the-badge)
   ![Kotlin](https://img.shields.io/badge/KOTLIN-AA93D9?style=for-the-badge)
+  ![Blender](https://img.shields.io/badge/BLENDER-FFB963?style=for-the-badge)
   ![VSCode](https://img.shields.io/badge/VSCODE-4087F5?style=for-the-badge)
   ![Html](https://img.shields.io/badge/HTML-FF6F00?style=for-the-badge)
   ![CSS](https://img.shields.io/badge/CSS-B1EAFA?style=for-the-badge)
