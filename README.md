@@ -4,7 +4,7 @@
 ### Sobre Mí
 - Tengo 22 años y actualmente vivo en Cuenca, España.
 - Tengo un título de DAM (Desarrollo de Aplicaciones Multiplataformas) y aprobé un curso de especialización de Desarrollo de Videojuegos y Realidad Virtual
-- Me gusta mucho el poder programar y diseñar aplicaciones, entornos y algún que otro videojuego.
+- Me gusta mucho programar y diseñar aplicaciones, entornos y algún que otro videojuego.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
