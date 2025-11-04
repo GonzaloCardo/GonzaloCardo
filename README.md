@@ -17,7 +17,7 @@
   ![C#](https://img.shields.io/badge/CSHARP-772BCC?style=for-the-badge)
   ![Java](https://img.shields.io/badge/JAVA-E87F3A?style=for-the-badge)
   ![Python](https://img.shields.io/badge/PYTHON-FFF403?style=for-the-badge)
-  ![Android](https://img.shields.io/badge/ADNROID-63C702?style=for-the-badge)
+  ![Android](https://img.shields.io/badge/ANDROID-63C702?style=for-the-badge)
   ![Kotlin](https://img.shields.io/badge/KOTLIN-AA93D9?style=for-the-badge)
   ![Blender](https://img.shields.io/badge/BLENDER-FFB963?style=for-the-badge)
   ![VSCode](https://img.shields.io/badge/VSCODE-4087F5?style=for-the-badge)
